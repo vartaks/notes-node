@@ -1,0 +1,26 @@
+{
+  "name": "sourabh-notes",
+  "version": "1.0.0",
+  "description": "Notes app by Sourabh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vartaks/notes-node.git"
+  },
+  "keywords": [
+    "notes",
+    "nodejs"
+  ],
+  "author": "Sourabh Vartak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vartaks/notes-node/issues"
+  },
+  "homepage": "https://github.com/vartaks/notes-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
