@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/vartaks/notes-node#readme",
   "dependencies": {
-    "lodash": "^4.17.10",
-    "yargs": "^4.7.1"
+    "lodash": "^4.17.21",
+    "yargs": "^17.7.2"
   }
 }
